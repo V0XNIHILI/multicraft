@@ -2,7 +2,7 @@
 
 **By [Douwe den Blanken](https://nl.linkedin.com/in/douwedenblanken) ([v0xnihili](https://github.com/V0XNIHILI/))**
 
-Enables you to join local multiplayer(LAN) Mincraft worlds while you are using the same Mojang
+Enables you to join local multiplayer (LAN) Minecraft worlds while you are using the same Mojang
 account as the host. Changes the `displayName` and starts Minecraft immediately after doing this.
 
 **PLEASE NOTE: currently, this only works on macOS!**
