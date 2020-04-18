@@ -25,3 +25,14 @@ you are ready to play Minecraft with multiple players in one world on one Mojang
 Open a terminal (`⌘ + space` and type `terminal`). Go to the directory where you downloaded this
 repository and type `./run.sh`. This should start Minecraft with your fake user name. This should be
 visible in the lower right corner of the launcher.
+
+## Terminal alias
+
+In case you want to set an alias in your terminal so you can start it with a super short command,
+add the following line to your `.zshrc` or `.bash_profile`:
+
+```bash
+alias mc="cd && cd path/to/multicraftfolder && ./run.sh && cd"
+```
+
+Please update `path/to/multicraftfolder` with the path to the folder where you put Multicraft.
